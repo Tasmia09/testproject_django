@@ -18,8 +18,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_project/test_app/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="92" lean-forward="false" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/test_project/test_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="28" />
+              <caret line="17" column="28" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -72,8 +72,8 @@
         <option value="$PROJECT_DIR$/test_project/test_project/urls.py" />
         <option value="$PROJECT_DIR$/test_project/test_app/urls.py" />
         <option value="$PROJECT_DIR$/test_project/test_app/templates/home.html" />
-        <option value="$PROJECT_DIR$/test_project/test_app/templates/contact.html" />
         <option value="$PROJECT_DIR$/test_project/test_app/views.py" />
+        <option value="$PROJECT_DIR$/test_project/test_app/templates/contact.html" />
       </list>
     </option>
   </component>
@@ -108,6 +108,16 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="testproject" />
@@ -721,15 +731,15 @@
     <entry file="file://$PROJECT_DIR$/test_project/test_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="28" />
+          <caret line="17" column="28" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_project/test_app/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="92" lean-forward="false" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
           <folding />
         </state>
       </provider>
