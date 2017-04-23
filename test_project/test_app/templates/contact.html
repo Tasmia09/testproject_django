@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Page</title>
+</head>
+<body>
+
+    <p>Contatc Page</p>
+
+    <form method="POST" action="">
+        {% csrf_token %}
+        <label for="username">Username:</label>
+        <input id="username" type="text" name="username" value="{{ name }}" placeholder="name">
+
+        <label for="contactNo">Phone Number:</label>
+        <input id="contactNo" type="number" name="contactNo" value="{{ number }}" placeholder="0-9">
+
+        <input type="submit" name="Submit" value="SUBMIT">
+
+    </form>
+
+</body>
+</html>
